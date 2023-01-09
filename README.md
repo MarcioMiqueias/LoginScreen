@@ -2,7 +2,7 @@
 
 Authenticating input data at login
 
-Requirements: Node.Js, Angular, npm.
+Requirements: Node.Js, Angular.
 
 Access the fakeDatabase folder and use the "npm start" command to activate the database localhost.
 
